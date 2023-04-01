@@ -7,6 +7,7 @@ type AddMoneyToBudgetType = (bilding: GovermentBuildingsType, budget: number) =>
 type RepairHouseType = (houseType: HouseType) => void;
 type ToFireStaffType = (build: GovermentBuildingsType, staffCount: number) => void;
 type ToHireStaffType = (ToFireStaffType);
+type makeStudentActiveType = (student: StudentType) => void;
 
 export const sum = (a: number, b: number) => {
     return a + b
@@ -26,7 +27,7 @@ export const addSkill2: AddSkillType = (student, skill) => {
     })
 }
 
-export function makeStudentActive(student: StudentType): void {
+export const makeStudentActive: makeStudentActiveType = function(student) {
     student.isActive = false;
 }
 

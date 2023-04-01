@@ -11,12 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="550dae1b-7caa-4cf5-b761-87016be2b113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/03/03_02.test.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02/02.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/02/02.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/03/03.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/03/03.test.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/03/03.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/03/03.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1680238689761</updated>
       <workItem from="1680238693881" duration="19100000" />
-      <workItem from="1680338623695" duration="7710000" />
+      <workItem from="1680338623695" duration="8747000" />
+      <workItem from="1680367674377" duration="1430000" />
     </task>
     <servers />
   </component>
@@ -95,6 +93,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="894" y="467" key="#ESLint/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1680338974627" />
+    <state x="804" y="298" key="FileChooserDialogImpl" timestamp="1680359034488">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="804" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1680359034488" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1680355617517">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
