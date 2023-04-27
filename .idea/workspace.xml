@@ -11,11 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="550dae1b-7caa-4cf5-b761-87016be2b113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/06/06-callbacks.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/07/07.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/07/07.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/08/08_01.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/08/08_01.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/09/09_01.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/09/09_01.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,23 +62,79 @@
       <recent name="D:\School\nativejs\src\123." />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.sort array test">
+    <configuration name="array reference test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/07/07.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/09/09_01.test.tsx" />
       <test-names>
-        <test-name value="" />
+        <test-name value="array reference test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="reference array type test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/09/09_01.test.tsx" />
+      <test-names>
+        <test-name value="reference array type test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="reference type test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/09/09_01.test.tsx" />
+      <test-names>
+        <test-name value="reference type test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="sort array test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/09/09_01.test.tsx" />
+      <test-names>
+        <test-name value="sort array test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="value type test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/09/09_01.test.tsx" />
+      <test-names>
+        <test-name value="value type test" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.Unnamed" />
+        <item itemvalue="Jest.sort array test" />
+        <item itemvalue="Jest.array reference test" />
+        <item itemvalue="Jest.reference array type test" />
+        <item itemvalue="Jest.reference type test" />
+        <item itemvalue="Jest.value type test" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +153,15 @@
       <workItem from="1680367674377" duration="2465000" />
       <workItem from="1680861880972" duration="3458000" />
       <workItem from="1680940835221" duration="3120000" />
-      <workItem from="1681473941217" duration="8990000" />
+      <workItem from="1681473941217" duration="10230000" />
+      <workItem from="1681919344507" duration="634000" />
+      <workItem from="1681984106174" duration="10000" />
+      <workItem from="1682077678662" duration="3065000" />
+      <workItem from="1682195327867" duration="3187000" />
+      <workItem from="1682267287593" duration="524000" />
+      <workItem from="1682369547553" duration="11000" />
+      <workItem from="1682498265422" duration="49000" />
+      <workItem from="1682595066762" duration="3365000" />
     </task>
     <servers />
   </component>
@@ -121,74 +185,74 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="894" y="467" key="#ESLint/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1680338974627" />
-    <state x="804" y="298" key="FileChooserDialogImpl" timestamp="1680944246377">
+    <state x="804" y="298" key="FileChooserDialogImpl" timestamp="1682498313418">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="804" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1680944246377" />
-    <state width="2005" height="162" key="GridCell.Tab.0.bottom" timestamp="1681491133951">
+    <state x="804" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1682498313418" />
+    <state width="2005" height="345" key="GridCell.Tab.0.bottom" timestamp="1682597759166">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="162" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681491133951" />
-    <state width="2005" height="162" key="GridCell.Tab.0.center" timestamp="1681491133951">
+    <state width="2005" height="345" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1682597759166" />
+    <state width="2005" height="345" key="GridCell.Tab.0.center" timestamp="1682597759166">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="162" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681491133951" />
-    <state width="2005" height="162" key="GridCell.Tab.0.left" timestamp="1681491133951">
+    <state width="2005" height="345" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1682597759166" />
+    <state width="2005" height="345" key="GridCell.Tab.0.left" timestamp="1682597759166">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="162" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681491133951" />
-    <state width="2005" height="162" key="GridCell.Tab.0.right" timestamp="1681491133951">
+    <state width="2005" height="345" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1682597759166" />
+    <state width="2005" height="345" key="GridCell.Tab.0.right" timestamp="1682597759166">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="162" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681491133951" />
-    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1681488858625">
+    <state width="2005" height="345" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1682597759166" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1681497035751">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035751" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1681497035751">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035751" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1681497035751">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035751" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1681497035751">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.2.bottom" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035751" />
+    <state width="2005" height="376" key="GridCell.Tab.2.bottom" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.2.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.2.center" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.2.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
+    <state width="2005" height="376" key="GridCell.Tab.2.center" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.2.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.2.left" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.2.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
+    <state width="2005" height="376" key="GridCell.Tab.2.left" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.2.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.2.right" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.2.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
+    <state width="2005" height="376" key="GridCell.Tab.2.right" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.2.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.3.bottom" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.2.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
+    <state width="2005" height="376" key="GridCell.Tab.3.bottom" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.3.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.3.center" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.3.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
+    <state width="2005" height="376" key="GridCell.Tab.3.center" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.3.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.3.left" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.3.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
+    <state width="2005" height="376" key="GridCell.Tab.3.left" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.3.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
-    <state width="2005" height="376" key="GridCell.Tab.3.right" timestamp="1681488858625">
+    <state width="2005" height="376" key="GridCell.Tab.3.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
+    <state width="2005" height="376" key="GridCell.Tab.3.right" timestamp="1681497035752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.3.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681488858625" />
+    <state width="2005" height="376" key="GridCell.Tab.3.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1681487466984">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
