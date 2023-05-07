@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="550dae1b-7caa-4cf5-b761-87016be2b113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/10/10_01.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10/10_01.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10/10_02.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10/10_02.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../minitask/deep_copy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,79 +60,79 @@
       <recent name="D:\School\nativejs\src\123." />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.update works company">
-    <configuration name="add books test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.10. Array of objects inside an object -&gt; object -&gt; array -&gt; object -&gt;  object">
+    <configuration name="10. Array of objects inside an object -&gt; object -&gt; array -&gt; object -&gt;  object" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/10/10_01.test.tsx" />
+      <test-file value="$PROJECT_DIR$/src/10/10_02.test.ts" />
       <test-names>
-        <test-name value="add books test" />
+        <test-name value="10. Array of objects inside an object -&gt; object -&gt; array -&gt; object -&gt;  object" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="change address test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="6. Array of objects inside object" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/10/10_01.test.tsx" />
+      <test-file value="$PROJECT_DIR$/src/10/10_02.test.ts" />
       <test-names>
-        <test-name value="change address test" />
+        <test-name value="6. Array of objects inside object" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="reference type test (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="7. Object inside an object, inside an object" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/10/10_01.test.tsx" />
+      <test-file value="$PROJECT_DIR$/src/10/10_02.test.ts" />
       <test-names>
-        <test-name value="reference type test" />
+        <test-name value="7. Object inside an object, inside an object" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="update book test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="8. Array of objects inside object -&gt; object" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/10/10_01.test.tsx" />
+      <test-file value="$PROJECT_DIR$/src/10/10_02.test.ts" />
       <test-names>
-        <test-name value="update book test" />
+        <test-name value="8. Array of objects inside object -&gt; object" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="update works company" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="9. Object inside an object -&gt; array -&gt; object -&gt;  object" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/10/10_01.test.tsx" />
+      <test-file value="$PROJECT_DIR$/src/10/10_02.test.ts" />
       <test-names>
-        <test-name value="update works company" />
+        <test-name value="9. Object inside an object -&gt; array -&gt; object -&gt;  object" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.update works company" />
-        <item itemvalue="Jest.update book test" />
-        <item itemvalue="Jest.add books test" />
-        <item itemvalue="Jest.change address test" />
-        <item itemvalue="Jest.reference type test (1)" />
+        <item itemvalue="Jest.10. Array of objects inside an object -&gt; object -&gt; array -&gt; object -&gt;  object" />
+        <item itemvalue="Jest.9. Object inside an object -&gt; array -&gt; object -&gt;  object" />
+        <item itemvalue="Jest.8. Array of objects inside object -&gt; object" />
+        <item itemvalue="Jest.7. Object inside an object, inside an object" />
+        <item itemvalue="Jest.6. Array of objects inside object" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,8 @@
       <workItem from="1682498265422" duration="49000" />
       <workItem from="1682595066762" duration="3938000" />
       <workItem from="1682613180264" duration="20000" />
-      <workItem from="1683453808693" duration="9278000" />
+      <workItem from="1683453808693" duration="9853000" />
+      <workItem from="1683473071541" duration="4258000" />
     </task>
     <servers />
   </component>
@@ -185,26 +186,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="894" y="467" key="#ESLint/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1680338974627" />
-    <state x="804" y="298" key="FileChooserDialogImpl" timestamp="1682613199487">
+    <state x="804" y="298" key="FileChooserDialogImpl" timestamp="1683473146259">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="804" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1682613199487" />
-    <state width="2005" height="234" key="GridCell.Tab.0.bottom" timestamp="1683466945398">
+    <state x="804" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683473146259" />
+    <state width="1990" height="315" key="GridCell.Tab.0.bottom" timestamp="1683477365482">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="234" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683466945398" />
-    <state width="2005" height="234" key="GridCell.Tab.0.center" timestamp="1683466945398">
+    <state width="1990" height="315" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683477365482" />
+    <state width="1990" height="315" key="GridCell.Tab.0.center" timestamp="1683477365482">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="234" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683466945398" />
-    <state width="2005" height="234" key="GridCell.Tab.0.left" timestamp="1683466945398">
+    <state width="1990" height="315" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683477365482" />
+    <state width="1990" height="315" key="GridCell.Tab.0.left" timestamp="1683477365482">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="234" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683466945398" />
-    <state width="2005" height="234" key="GridCell.Tab.0.right" timestamp="1683466945398">
+    <state width="1990" height="315" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683477365482" />
+    <state width="1990" height="315" key="GridCell.Tab.0.right" timestamp="1683477365482">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="234" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683466945398" />
+    <state width="1990" height="315" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1683477365482" />
     <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1681497035751">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
