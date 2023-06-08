@@ -1,4 +1,12 @@
-import {getBanknoteList, getSum, getTriangleType, isEvenIndexSumGreater, getSquarePositiveIntegers, sum, sumFirstNumbers} from "./lesson_8";
+import {
+    getBanknoteList,
+    getSum,
+    getTriangleType,
+    isEvenIndexSumGreater,
+    getSquarePositiveIntegers,
+    sum,
+    sumFirstNumbers,
+} from "./lesson_8";
 
 test("sum", () => {
     expect(sum(3, 5, 7, 6, 4, 9)).toBe(34)
@@ -53,3 +61,16 @@ test("get banknote list", ()=> {
     expect(result23[2]).toBe(1)
 
 })
+
+// test("get banknote list obj", ()=> {
+//     // надо бы проверять длинну резалтов и их сумму
+//     const result2500 = getBanknoteListObj(2500)
+//     const result23 = getBanknoteListObj(23)
+//     expect(result2500[0]).toBe(1000)
+//     expect(result2500[1]).toBe(1000)
+//     expect(result2500[2]).toBe(500)
+//     expect(result23[0]).toBe(20)
+//     expect(result23[1]).toBe(2)
+//     expect(result23[2]).toBe(1)
+//
+// })

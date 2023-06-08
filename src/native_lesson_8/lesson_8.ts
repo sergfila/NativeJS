@@ -108,13 +108,33 @@ export function getBanknoteList(amountOfMoney: number): Array<number> {
     const banknotes = [1000, 500, 100, 50, 20, 10, 5, 2, 1];
     let result = [];
 
-    for (let i = 0; i < banknotes.length; i++) {
-        for (let j = amountOfMoney; j >= banknotes[i]; j -= banknotes[i]) {
-            result.push(banknotes[i]);
-            amountOfMoney -= banknotes[i];
+    for (let el of banknotes) {
+        while (amountOfMoney >= el) {
+            result.push(el);
+            amountOfMoney -= el;
         }
     }
 
     // В return стоит "заглушка", чтоб typescript не ругался
     return result
 }
+
+// export function getBanknoteListObj(amountOfMoney: number): Array<number> {
+//     const banknotes = [
+//         {'1000': 2},
+//         {'500': 3},
+//         {'100': 2},
+//         {'50': 11},
+//         {'20': 30},
+//         {'10': 45},
+//         {'5': 95},
+//         {'2': 120},
+//         {'1': 1000}
+//         ];
+//     let result = [];
+//
+//
+//     // В return стоит "заглушка", чтоб typescript не ругался
+//     return result
+// }
+
