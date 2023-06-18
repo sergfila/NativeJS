@@ -11,13 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="550dae1b-7caa-4cf5-b761-87016be2b113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/native_lesson_9/native9.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/native_promise/promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/native_promise/promise_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/native_lesson_8/lesson_8.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/native_lesson_8/lesson_8.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/native_lesson_8/lesson_8.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/native_lesson_8/lesson_8.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +166,12 @@
       <workItem from="1685031370942" duration="1159000" />
       <workItem from="1685635284151" duration="7073000" />
       <workItem from="1685782764196" duration="48000" />
-      <workItem from="1686241147430" duration="1897000" />
+      <workItem from="1686241147430" duration="2208000" />
+      <workItem from="1686299032423" duration="39000" />
+      <workItem from="1686940277414" duration="1470000" />
+      <workItem from="1686949949758" duration="598000" />
+      <workItem from="1686996831825" duration="768000" />
+      <workItem from="1687105010744" duration="6722000" />
     </task>
     <servers />
   </component>
@@ -196,26 +199,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="740" y="215" key="#promise_2.js/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686246089784" />
-    <state x="804" y="298" key="FileChooserDialogImpl" timestamp="1685782811223">
+    <state x="804" y="298" key="FileChooserDialogImpl" timestamp="1686997603729">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="804" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1685782811223" />
-    <state width="2049" height="197" key="GridCell.Tab.0.bottom" timestamp="1686246058601">
+    <state x="804" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686997603729" />
+    <state width="2049" height="197" key="GridCell.Tab.0.bottom" timestamp="1686249177207">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2049" height="197" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686246058601" />
-    <state width="2049" height="197" key="GridCell.Tab.0.center" timestamp="1686246058600">
+    <state width="2049" height="197" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686249177207" />
+    <state width="2049" height="197" key="GridCell.Tab.0.center" timestamp="1686249177207">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2049" height="197" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686246058600" />
-    <state width="2049" height="197" key="GridCell.Tab.0.left" timestamp="1686246058600">
+    <state width="2049" height="197" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686249177207" />
+    <state width="2049" height="197" key="GridCell.Tab.0.left" timestamp="1686249177207">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2049" height="197" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686246058600" />
-    <state width="2049" height="197" key="GridCell.Tab.0.right" timestamp="1686246058601">
+    <state width="2049" height="197" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686249177207" />
+    <state width="2049" height="197" key="GridCell.Tab.0.right" timestamp="1686249177207">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2049" height="197" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686246058601" />
+    <state width="2049" height="197" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686249177207" />
     <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1681497035751">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -264,9 +267,13 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="376" key="GridCell.Tab.3.right/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1681497035752" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1685638972843">
+    <state x="681" y="259" key="run.anything.popup" timestamp="1686249193954">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1685638972843" />
+    <state x="681" y="259" key="run.anything.popup/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686249193954" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1686249201238">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1440.860@0.0.2048.1112" timestamp="1686249201238" />
   </component>
 </project>
