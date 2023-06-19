@@ -11,11 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="550dae1b-7caa-4cf5-b761-87016be2b113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dimych_Promise/promise4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dimych_Promise/promise4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +171,7 @@
       <workItem from="1686949949758" duration="598000" />
       <workItem from="1686996831825" duration="768000" />
       <workItem from="1687105010744" duration="6722000" />
+      <workItem from="1687163068536" duration="5776000" />
     </task>
     <servers />
   </component>
